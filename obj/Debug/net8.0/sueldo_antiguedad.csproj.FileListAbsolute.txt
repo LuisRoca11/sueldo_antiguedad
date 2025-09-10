@@ -1,0 +1,14 @@
+/home/luis/Documentos/CSharp/sueldo_antiguedad/bin/Debug/net8.0/sueldo_antiguedad
+/home/luis/Documentos/CSharp/sueldo_antiguedad/bin/Debug/net8.0/sueldo_antiguedad.deps.json
+/home/luis/Documentos/CSharp/sueldo_antiguedad/bin/Debug/net8.0/sueldo_antiguedad.runtimeconfig.json
+/home/luis/Documentos/CSharp/sueldo_antiguedad/bin/Debug/net8.0/sueldo_antiguedad.dll
+/home/luis/Documentos/CSharp/sueldo_antiguedad/bin/Debug/net8.0/sueldo_antiguedad.pdb
+/home/luis/Documentos/CSharp/sueldo_antiguedad/obj/Debug/net8.0/sueldo_antiguedad.GeneratedMSBuildEditorConfig.editorconfig
+/home/luis/Documentos/CSharp/sueldo_antiguedad/obj/Debug/net8.0/sueldo_antiguedad.AssemblyInfoInputs.cache
+/home/luis/Documentos/CSharp/sueldo_antiguedad/obj/Debug/net8.0/sueldo_antiguedad.AssemblyInfo.cs
+/home/luis/Documentos/CSharp/sueldo_antiguedad/obj/Debug/net8.0/sueldo_antiguedad.csproj.CoreCompileInputs.cache
+/home/luis/Documentos/CSharp/sueldo_antiguedad/obj/Debug/net8.0/sueldo_antiguedad.dll
+/home/luis/Documentos/CSharp/sueldo_antiguedad/obj/Debug/net8.0/refint/sueldo_antiguedad.dll
+/home/luis/Documentos/CSharp/sueldo_antiguedad/obj/Debug/net8.0/sueldo_antiguedad.pdb
+/home/luis/Documentos/CSharp/sueldo_antiguedad/obj/Debug/net8.0/sueldo_antiguedad.genruntimeconfig.cache
+/home/luis/Documentos/CSharp/sueldo_antiguedad/obj/Debug/net8.0/ref/sueldo_antiguedad.dll
